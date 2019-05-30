@@ -1,0 +1,11 @@
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Jagged_Arrays\obj\Debug\netcoreapp2.2\Jagged_Arrays.csprojAssemblyReference.cache
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Jagged_Arrays\obj\Debug\netcoreapp2.2\Jagged_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Jagged_Arrays\obj\Debug\netcoreapp2.2\Jagged_Arrays.AssemblyInfoInputs.cache
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Jagged_Arrays\obj\Debug\netcoreapp2.2\Jagged_Arrays.AssemblyInfo.cs
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Jagged_Arrays\bin\Debug\netcoreapp2.2\Jagged_Arrays.deps.json
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Jagged_Arrays\bin\Debug\netcoreapp2.2\Jagged_Arrays.runtimeconfig.json
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Jagged_Arrays\bin\Debug\netcoreapp2.2\Jagged_Arrays.runtimeconfig.dev.json
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Jagged_Arrays\bin\Debug\netcoreapp2.2\Jagged_Arrays.dll
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Jagged_Arrays\bin\Debug\netcoreapp2.2\Jagged_Arrays.pdb
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Jagged_Arrays\obj\Debug\netcoreapp2.2\Jagged_Arrays.dll
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Jagged_Arrays\obj\Debug\netcoreapp2.2\Jagged_Arrays.pdb

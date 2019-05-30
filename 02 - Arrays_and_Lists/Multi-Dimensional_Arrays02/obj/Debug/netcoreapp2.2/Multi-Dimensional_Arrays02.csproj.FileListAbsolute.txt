@@ -1,0 +1,11 @@
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Multi-Dimensional_Arrays02\bin\Debug\netcoreapp2.2\Multi-Dimensional_Arrays02.deps.json
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Multi-Dimensional_Arrays02\bin\Debug\netcoreapp2.2\Multi-Dimensional_Arrays02.runtimeconfig.json
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Multi-Dimensional_Arrays02\bin\Debug\netcoreapp2.2\Multi-Dimensional_Arrays02.runtimeconfig.dev.json
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Multi-Dimensional_Arrays02\bin\Debug\netcoreapp2.2\Multi-Dimensional_Arrays02.dll
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Multi-Dimensional_Arrays02\bin\Debug\netcoreapp2.2\Multi-Dimensional_Arrays02.pdb
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Multi-Dimensional_Arrays02\obj\Debug\netcoreapp2.2\Multi-Dimensional_Arrays02.csprojAssemblyReference.cache
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Multi-Dimensional_Arrays02\obj\Debug\netcoreapp2.2\Multi-Dimensional_Arrays02.csproj.CoreCompileInputs.cache
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Multi-Dimensional_Arrays02\obj\Debug\netcoreapp2.2\Multi-Dimensional_Arrays02.AssemblyInfoInputs.cache
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Multi-Dimensional_Arrays02\obj\Debug\netcoreapp2.2\Multi-Dimensional_Arrays02.AssemblyInfo.cs
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Multi-Dimensional_Arrays02\obj\Debug\netcoreapp2.2\Multi-Dimensional_Arrays02.dll
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\Multi-Dimensional_Arrays02\obj\Debug\netcoreapp2.2\Multi-Dimensional_Arrays02.pdb

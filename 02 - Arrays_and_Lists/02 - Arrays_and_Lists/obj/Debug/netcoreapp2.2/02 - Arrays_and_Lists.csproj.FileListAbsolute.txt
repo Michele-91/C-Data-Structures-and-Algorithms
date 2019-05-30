@@ -1,0 +1,11 @@
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\02 - Arrays_and_Lists\bin\Debug\netcoreapp2.2\02 - Arrays_and_Lists.deps.json
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\02 - Arrays_and_Lists\bin\Debug\netcoreapp2.2\02 - Arrays_and_Lists.runtimeconfig.json
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\02 - Arrays_and_Lists\bin\Debug\netcoreapp2.2\02 - Arrays_and_Lists.runtimeconfig.dev.json
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\02 - Arrays_and_Lists\bin\Debug\netcoreapp2.2\02 - Arrays_and_Lists.dll
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\02 - Arrays_and_Lists\bin\Debug\netcoreapp2.2\02 - Arrays_and_Lists.pdb
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\02 - Arrays_and_Lists\obj\Debug\netcoreapp2.2\02 - Arrays_and_Lists.csprojAssemblyReference.cache
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\02 - Arrays_and_Lists\obj\Debug\netcoreapp2.2\02 - Arrays_and_Lists.csproj.CoreCompileInputs.cache
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\02 - Arrays_and_Lists\obj\Debug\netcoreapp2.2\02 - Arrays_and_Lists.AssemblyInfoInputs.cache
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\02 - Arrays_and_Lists\obj\Debug\netcoreapp2.2\02 - Arrays_and_Lists.AssemblyInfo.cs
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\02 - Arrays_and_Lists\obj\Debug\netcoreapp2.2\02 - Arrays_and_Lists.dll
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\02 - Arrays_and_Lists\02 - Arrays_and_Lists\obj\Debug\netcoreapp2.2\02 - Arrays_and_Lists.pdb

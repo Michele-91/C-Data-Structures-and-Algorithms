@@ -1,0 +1,11 @@
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\GettingStarted\GettingStarted\bin\Debug\netcoreapp2.2\GettingStarted.deps.json
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\GettingStarted\GettingStarted\bin\Debug\netcoreapp2.2\GettingStarted.runtimeconfig.json
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\GettingStarted\GettingStarted\bin\Debug\netcoreapp2.2\GettingStarted.runtimeconfig.dev.json
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\GettingStarted\GettingStarted\bin\Debug\netcoreapp2.2\GettingStarted.dll
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\GettingStarted\GettingStarted\bin\Debug\netcoreapp2.2\GettingStarted.pdb
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\GettingStarted\GettingStarted\obj\Debug\netcoreapp2.2\GettingStarted.csprojAssemblyReference.cache
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\GettingStarted\GettingStarted\obj\Debug\netcoreapp2.2\GettingStarted.csproj.CoreCompileInputs.cache
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\GettingStarted\GettingStarted\obj\Debug\netcoreapp2.2\GettingStarted.AssemblyInfoInputs.cache
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\GettingStarted\GettingStarted\obj\Debug\netcoreapp2.2\GettingStarted.AssemblyInfo.cs
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\GettingStarted\GettingStarted\obj\Debug\netcoreapp2.2\GettingStarted.dll
+C:\Users\mispi\Documents\C#\C# Data Structures and Algorithms\GettingStarted\GettingStarted\obj\Debug\netcoreapp2.2\GettingStarted.pdb
